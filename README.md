@@ -2,9 +2,9 @@
 
 Learning Bootstrap 5 Tutorial from W3School.
 
-# Containers class
+# 1. Containers class
 
-.container-fluid class
+    .container-fluid class
 
 <div class="container-fluid">
   <h1>My First Bootstrap Page</h1>
@@ -12,7 +12,7 @@ Learning Bootstrap 5 Tutorial from W3School.
   <p>The .container-fluid class provides a full width container, spanning the entire width of the viewport.</p>
 </div>
 
-.container class
+    .container class
 
 <div class="container">
   <h1>My First Bootstrap Page</h1>
